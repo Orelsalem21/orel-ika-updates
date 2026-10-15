@@ -3,8 +3,9 @@
     "ikariam-hebrew-agent@local": {
       "updates": [
         {
-          "version": "0.5.12",
-          "update_link": "https://github.com/Orelsalem21/orel-ika-updates/raw/main/orel-ika-0.5.12.xpi",
+          "version": "0.5.14",
+          "update_link": "https://github.com/Orelsalem21/orel-ika-updates/raw/main/orel-ika-0.5.14.xpi",
+          "update_hash": "sha512:f49a8f3d76b6db729956a875e60ee71347a65848809c839abd0032adb81f28888e46d9e2fe4b27fdc43089e75d9943ab8d3d63cf875eef0c4c5c936cfa5683ae",
           "browser_specific_settings": {
             "gecko": {
               "strict_min_version": "140.0"
